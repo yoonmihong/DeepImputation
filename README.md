@@ -23,4 +23,7 @@ Tensorflow==2.5.1
 #### Train
 #### Test
 
+## Arichitecture
+![architecture](./assets/architecture.jpg)
+
 ## Results
