@@ -17,7 +17,7 @@ Tensorflow==2.5.1
 ```
 
 #### Test
-check test_fromT1toT2.ipynb how to impute T2 images from T2 images
+check cross-modality_prediction/test_fromT1toT2.ipynb how to impute T2 images from T2 images
 ### Longitudinal prediction
 #### Preprocess data
 #### Train
