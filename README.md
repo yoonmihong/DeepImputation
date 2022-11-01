@@ -9,11 +9,11 @@ Tensorflow==2.5.1
 ### Cross-modality prediction
 #### Preprocess data
 ```bash
-> python3 build_pickle_data.py
+> python3 cross-modality_prediction/build_pickle_data.py
 ```
 #### Train (T1 to T2 imputation)
 ```bash
-> python3 train_fromT1toT2.py
+> python3 cross-modality_prediction/train_fromT1toT2.py
 ```
 
 #### Test
